@@ -18,7 +18,7 @@ This repository contains a specialized pipeline for automated analysis of grape 
 
 The pipeline extracts the following grape cluster traits:
 - Peduncle length (from insertion point on shoot to first ramification)
-- Rachis length
+- Shoulder point
 - Measurements calibrated to millimeter precision
 - Integration with QR code identification system
 
@@ -33,7 +33,7 @@ The pipeline extracts the following grape cluster traits:
 ### Excluded
 - Collection of samples (performed by USDA team)
 - Hardware modifications to existing equipment
-- Analysis of traits beyond peduncle and rachis measurements (For now)
+- Analysis of traits beyond peduncle and shoulder
 
 ## Deliverables
 
